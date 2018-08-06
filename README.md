@@ -1,4 +1,4 @@
 # hello-world
 first repository
 
-Today is friday. Em. It is really a friday!
+Today is friday. Em. It is really a friday! yes
